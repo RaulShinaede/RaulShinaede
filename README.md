@@ -1,7 +1,11 @@
 ### Hey, Raul Shinaede aqui 👋, sobre mim:
 
-- 🔭 Atualmente estou trabalhando com desenvolvimento desktop com wpf
-- 🌱 Atualmente estou estudando python, c e java
+- 🏡 Atualmente morando em **Belo Horizonte**, **Minas Gerais**
+- 🏬 Atualmente trabalhando pelo Metalmax Projetos, mas buscando oportunidades em outras áreas 🤷
+- 🔭 Atualmente estou trabalhando com desenvolvimento desktop e rotinas de automação com **C# / .NET**
+- 🌱 Atualmente estou estudando **Python**, **C**, **Assembly** , **Java**, **Inteligência artificial** e **Engenharia Reversa**
+- ☕ Cafézin??
+<br><br>
 
 <div>
   <a href="https://github.com/RaulShinaede">
@@ -16,9 +20,13 @@
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   </div>
+  
+  ![Snake animation](https://github.com/RaulShinaede/RaulShinaede/blob/output/github-contribution-grid-snake.svg)
  
   ##
   
   <div>
     <a href="https://www.linkedin.com/in/raul-oliveira-376b14220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
+  
+
