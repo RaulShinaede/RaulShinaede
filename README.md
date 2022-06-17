@@ -1,9 +1,8 @@
 ### Hey, Raul Shinaede aqui 👋, sobre mim:
 
 - 🏡 Atualmente morando em **Belo Horizonte**, **Minas Gerais**
-- 🏬 Atualmente trabalhando pela Metalmax Projetos, mas buscando oportunidades em outras áreas 🤷
 - 🔭 Atualmente trabalhando com desenvolvimento desktop e rotinas de automação com **C# / .NET**
-- 🌱 Atualmente estudando **Python**, **C**, **Assembly** , **Java**, **Inteligência artificial** e **Engenharia Reversa**
+- 🌱 Atualmente estudando **Golang**, **Docker**, **Kubernetes** e **Microserviços**
 - ☕ Cafézin??
 <br><br>
 
